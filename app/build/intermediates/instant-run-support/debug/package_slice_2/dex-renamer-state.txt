@@ -1,0 +1,4 @@
+#Thu Dec 07 22:01:32 PST 2017
+base.0=/Users/apoorvajagadeesh/Desktop/295_app/app/build/intermediates/transforms/dexMerger/debug/2
+renamed.0=classes.dex
+file.0=/Users/apoorvajagadeesh/Desktop/295_app/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex
